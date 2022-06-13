@@ -32,29 +32,25 @@
       primary activity colors.
   -->
   <array name="background_colors">
-        <item>@*android:color/system_accent1_100</item>
-        <item>@*android:color/system_accent2_100</item>
-        <item>@*android:color/system_accent3_100</item>
-        <item>@*android:color/system_accent1_200</item>
-        <item>@*android:color/system_accent2_200</item>
-        <item>@*android:color/system_accent3_200</item>
-        <item>@*android:color/system_accent1_300</item>
-        <item>@*android:color/system_accent2_300</item>
-        <item>@*android:color/system_accent3_300</item>
+    <item>#00796B</item>
+    <item>#3367D6</item>
+    <item>#303F9F</item>
+    <item>#7B1FA2</item>
+    <item>#C2185B</item>
+    <item>#C53929</item>
+    <item>#A52714</item>
   </array>
 
   <!-- Darker versions of background_colors, two shades darker. These colors are used for the
        status bar. -->
   <array name="background_colors_dark">
-        <item>@*android:color/system_accent1_400</item>
-        <item>@*android:color/system_accent2_400</item>
-        <item>@*android:color/system_accent3_400</item>
-        <item>@*android:color/system_accent1_500</item>
-        <item>@*android:color/system_accent2_500</item>
-        <item>@*android:color/system_accent3_500</item>
-        <item>@*android:color/system_accent1_600</item>
-        <item>@*android:color/system_accent2_600</item>
-        <item>@*android:color/system_accent3_600</item>
+    <item>#00695C</item>
+    <item>#2A56C6</item>
+    <item>#283593</item>
+    <item>#6A1B9A</item>
+    <item>#AD1457</item>
+    <item>#B93221</item>
+    <item>#841F10</item>
   </array>
 
   <color name="incall_background_gradient_top">#E91141BB</color>
